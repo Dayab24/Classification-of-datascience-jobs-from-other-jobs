@@ -1,0 +1,660 @@
+,Company,Title,Description,Location,Salary
+0,"
+
+    Accenture",Accenture Big Data Engineer Consultant/Manager,"
+                            Accenture Big Data Engineer Consultant/Manager, Australia. O Enterprise Data Warehouse / Data Lake architectures....",Sydney NSW,
+1,"
+    Altis Consulting",Junior Data Engineer,"
+            Junior Data Engineer. Are interested in Big Data? Are you someone who loves data and turning information into actionable insights for end users?...",Sydney NSW,
+2,"
+    Altis Consulting Pty Ltd",Junior Data Engineer,"
+            Junior Data Engineer. Are interested in Big Data? Are you someone who loves data and turning information into actionable insights for end users?...",Sydney NSW,
+3,"
+    Atlis Consulting",Junior Data Engineer,"
+            Junior Data Engineer. Are interested in Big Data? Are you someone who loves data and turning information into actionable insights for end users?...",Sydney NSW,
+4,"
+    Datalicious",Data Engineer,"
+            Strong background working on large scale Data Warehousing and Data processing solutions. Our team of marketing data specialists offer a wide range of skills...",North Sydney NSW,"<span class=""no-wrap"">
+                $80,000 - $130,000 a year</span>"
+5,"
+Data Republic",Big Data Engineer,"
+            About Data Republic. That’s just open data. There are many problems to be solved around identity management, data analysis, data discovery, and platform...",Sydney NSW,
+6,"
+
+    Macquarie Group Limited",Hadoop Data Engineer,"
+            Help build our next generation data management platform and expand upon our data management capabilities. Implement data workflows and ETL processes....",Sydney NSW,
+7,"
+
+    nbn™",Senior Data Engineer,"
+            We are looking for an individual who has proven domain experience in data ingestion and big data processing design to deal with the volume, variety, value,...",Melbourne VIC,
+8,"
+
+    ThoughtWorks",Senior Data Engineer,"
+            As a Data Engineer, you will develop modern data architectural approaches to meet key business objectives and provide end to end data solutions....",Melbourne VIC,
+9,"
+
+    Queensland Rail",Senior Data Engineer,"
+            PN71973 - Senior Data Engineer.pdf. A vacancy currently exists for an experienced Senior Data Engineer to join the team and become involved in a range of new...",Brisbane QLD,"<span class=""no-wrap"">
+                $113,034 - $121,228 a year</span>"
+10,"
+
+    IBM",Big Data Engineer - Data Analytics SME (Syd/Mel),"
+            BigData Engineer - Data Analytics SME. What Does an IBM Data Engineer Opportunity Offer? Apply methods, technologies and techniques that address data...",St Leonards NSW,
+11,"
+    VGW",Big Data Engineer,"
+            We need a junior data engineer to join our Data and Analytics team to build cutting-edge data products using open-source and AWS serverless big data tech for...",Perth WA,
+12,"
+
+    Axiom Technologies",Network Data Engineer- Perth,"
+            Axiom Technologies Australia, is a Melbourne based entity with the history of providing Managed IT solutions to medium to large scale enterprises, across ANZ...",Perth WA,
+13,"
+    Melbourne IT Group",Data Engineer,"
+Data and Analytics. This is an opportunity for you to join one of Australia's leading Data and Analytics consultancies, where you will be providing technical...",Melbourne VIC,
+14,"
+    Servian",Data Engineer,"
+Data & Analytics - BI/DW, Big Data Analytics, Data Engineering, Data Science and Advanced Analytics. You will also bring skills in Big Data technologies and...",Melbourne VIC,
+15,"
+
+    Teradata",Data Engineer,"
+            Additionally the Senior Data Engineer assists Think Big Analytics establish thought leadership in the big data industry by contributing white papers, technical...",Sydney NSW,
+16,"
+
+    DigitasLBi",Data Engineer,"
+Data extraction from structured/unstructured sources; The creative use of data / data sources is a must, the candidate should have not only a strong analytical...",Sydney NSW,
+17,"
+
+    SAI Global",Big Data Engineer,"
+            The Big Data Engineer responsibilities will include:. Understanding of Master Data Management, Data Quality and Meta Data Management....",Sydney NSW,
+18,"
+
+    Australia Post",Senior Data Engineer,"
+            Improve the quality of internal, authoritative data stores and data sets used in our analytical solutions....",Victoria,
+19,"
+    VGW",Data Engineer,"
+            We’re looking for a junior data engineer to ensure the efficient and accurate flow of data from internal and external sources for the VGW data and analytics...",Perth WA,
+20,"
+
+    Envato",Data Engineer,"
+            You’ll be providing solutions to integrate data from internal and external data sources into the central data repository as well as the processing and modelling...",Melbourne VIC,
+21,"
+
+    Avanade",Hadoop Data Engineer,"
+            Ideally with direct experience with Azure Data Platform, SSIS, SSRS, data warehouse, data integration, Power BI and advanced SQL Skills....",Sydney NSW,
+22,"
+
+    IAG",Data Engineer,"
+            The Data Engineer role ensures that data pipelines are scalable, repeatable and secure. It helps facilitate getting data from a variety of different sources,...",New South Wales,
+23,"
+
+    Avanade",Data Engineer Consultant,"
+            Develop and maintain data warehouse and big data platform schematics, layouts, architectures, and relational databases for data storage and data mining....",Sydney NSW,
+24,"
+    Canva","Senior Data Engineer (SQL-on-Hadoop, ETL Pipelines)","
+            Demonstrated experience working with large volumes of data across in-house and third-party data warehousing platforms running in *nix environments....",Sydney NSW,
+25,"
+    Servian",Data Consultant,"
+Data & Analytics - BI/DW, Big Data Analytics, Data Engineering, Data Science and Advanced Analytics Customer Engagement - Marketing Campaigns, Campaign Analysis...",Sydney NSW,
+26,"
+    Opus Recruitment Solutions",JUNIOR DATA ENGINEER,"
+            Ability to not only read data but interpret data sets & reports. Building integrations that pull data sets from disparate data sources and bring them together....",Sydney NSW,"<span class=""no-wrap"">
+                $50,000 - $60,000 a year</span>"
+27,"
+    Salt Recruitment","Data Engineer Sydney, Australia","
+            They are looking to add a Data Engineer to their ranks to sit within their integration & data team and work on large projects spread across a multitude of...",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $130,000 a year</span>"
+28,"
+    Opus Recruitment Solutions",Big Data Engineer,"
+            Help contribute to engineer the next best data management platform and expand upon the data management capabilities. Have big data experience....",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $150,000 a year</span>"
+29,"
+    Melbourne IT Group",Senior Data Engineer - Cloud Data Platform,"
+            Senior Data Engineer - Cloud Data Platform. Data and Analytics. This is an opportunity for you to join one of Australia's leading Data and Analytics...",Melbourne VIC,
+30,"
+    Infoready",Senior Data Engineer - Cloud Data Platform,"
+            This is an opportunity for you to join one of Australia's leading Data and Analytics consultancies, where you will be providing technical expertise, delivery...",Melbourne VIC,
+31,"
+
+    Teradata",TB Prin. Data Eng (I),"
+Data Eng (I)-174836. Prior work and/or research experience with unstructured data and data modeling. As a Principal Data Engineer I, you will provide technical...",Sydney NSW,
+32,"
+
+    Bullhorn",Data Engineer,"
+            As a Data Engineer, a typical day might include:. Analyzing foreign data sets. As a Professional Services Data Engineer, you are an instrumental piece in the...",Sydney NSW,
+33,"
+    Finite",Data Engineer (IBM Integration Bus/SAP Process Orchestration...,"
+            Significant experience in data exchange technologies and ETL processes using technologies such as SAP Data Services....",Adelaide SA,"<span class=""no-wrap"">
+                $60 - $90 an hour</span>"
+34,"
+    Opus Recruitment Solutions",BIG DATA ENGINEER – TELCO,"
+            Requirements –Big Data Engineer. Job Responsibilities –Big Data Engineer. Previous relevant experience in Data Engineer positions....",Sydney NSW,"<span class=""no-wrap"">
+                $700 - $850 a day</span>"
+35,"
+
+    Huxley",Data Engineer,"
+Data security & governance expertise. Strong experience in traditional data warehousing / ETL tools (Informatica, Talend, Pentaho, DataStage)....",Sydney NSW,"<span class=""no-wrap"">
+                $140 a day</span>"
+36,"
+    Total Resource Solutions",Data Engineer - AWS,"
+Data retrial using API's. Our client runs one of the largest loyalty datasets in Australia - they require a data engineer to assist in automating ETL driven...",Sydney NSW,"<span class=""no-wrap"">
+                $500 a day</span>"
+37,"
+
+    Peoplebank",Big Data Engineer,"
+            As a Data Engineer, you are responsible for architecting, developing, scaling and maintaining data pipelines and analytics infrastructure, covering a wide range...",Macquarie Park NSW,"<span class=""no-wrap"">
+                $130,000 - $150,000 a year</span>"
+38,"
+    Brandscope",Data Engineer (With Javascript and API experience),"
+            Experience analysing, migrating or integrating data. Analysis of existing and newly provided data. Creation of processes to enhance the existing data flows....",Gold Coast QLD,
+39,"
+
+    Avanade",Data Engineer Group Manager,"
+            Advanced SSIS, SSRS, data warehouse, data integration and BI skills. Manage the design and development of standard/custom data warehouse and advanced analytics...",Sydney NSW,
+40,"
+
+    Hays",Data Engineer,"
+            Previous relevant experience in Data Engineer / Analyst positions. In this role you will be the Data Engineer that will help the company extract all the data...",Sydney Central Business District NSW,
+41,"
+    Salt Recruitment","Data Integration Engineer - Manager Sydney, Australia","
+            Manager, Big Data Engineer. Big data use cases and business case development. Experience managing and leading teams of big data engineers....",Sydney NSW,"<span class=""no-wrap"">
+                $135,000 - $180,000 a year</span>"
+42,"
+    Shoolin Consultancy",Data Engineer,"
+            Basic knowledge of Hadoop/Big data. 5 years of work experience Test and development of Data Vault Test Experience and SQL Testing Experience....",Sydney NSW,
+43,"
+    Paxus",Network Data Engineer,"
+            Great opportunity for Network Data Engineer with Cisco ACI & SolarWinds NTA+NCM+NPM implementation experience to join a well known IT brand in Perth....",Melbourne VIC,
+44,"
+    Professional Recruitment Australia",Data Engineer - Greenfield Opportunity,"
+            Golden opportunity for a data engineer to create some serious career capital with a greenfield big data role, take ownership with no red tape....",Melbourne VIC,
+45,"
+
+    Robert Walters",Big Data Engineer,"
+            Enterprise Data Warehouse / Data Lake architectures. You are an experienced Big Data Engineer with exceptional communication skills....",Sydney Central Business District NSW,
+46,"
+
+    Morgan McKinley",Big Data Engineer,"
+            The Data Engineer will be responsible for implementing the infrastructure to support big data projects with a focus on collecting, parsing, managing, analysing...",Sydney Central Business District NSW,
+47,"
+
+    TEKsystems",Big Data Engineer,"
+            A cutting-edge research organisation has engaged TEKsystems exclusively to recruit an accomplished Data Engineer for an on-going project at their facility near...",Sydney Western Suburbs NSW,
+48,"
+
+    Evolution Recruitment Solutions",Data Engineer,"
+            Various data stores; You will be streaming workflows connecting various data sources through Apache Flink into a Graph database....",Melbourne VIC,
+49,"
+    FourQuarters",Data Engineer,"
+Data Engineer required to manage the data integration operations, focusing on large volume information ingestion and transformation....",Melbourne VIC,
+50,"
+    Xpand Group",Data Engineer,"
+            Strong knowledge of concepts within the data domain (Dimensional Modelling, Data Marts, Data Lakes, Data Warehouses, ETL, Reporting concepts etc)....",Melbourne VIC,
+51,"
+
+    Aurec",Data Engineer,"
+            Significant experience in development of ETL processes using technologies such as SAP Data Services. APPLY NOW or Call 02 6162 9611 My clients requires multiple...",Sydney NSW,
+52,"
+    Aurec Human Capital Group",Data Engineer,"
+            Significant experience in development of ETL processes using technologies such as SAP Data Services. My clients requires multiple Data Engineers to assist with...",Sydney NSW,
+53,"
+    Huxley IT",Data Engineer,"
+Data security & governance expertise. Strong experience in traditional data warehousing / ETL tools (Informatica, Talend, Pentaho, DataStage)....",Sydney NSW,
+54,"
+
+    Michael Page",Data Engineer,"
+            As a Data Engineer you will be responsible for the following:. Technical background working with data models, database design, data mining and segmentation...",Perth Central Business District WA,
+55,"
+
+    PRA",Data Engineer - Greenfield Opportunity,"
+            Golden opportunity for a data engineer to create some serious career capital with a greenfield big data role, take ownership with no red tape....",Melbourne VIC,
+56,"
+
+    Foxtel",Big Data Solutions Specialist (6 month contract),"
+            Experience with integration of data from multiple data sources. Work closely with project members including Technology, Technical groups, Business SMEs, Data...",Moonee Ponds VIC,
+57,"
+
+    TEKsystems",Data Engineer,"
+            Experience in the use of ETL, data cleansing, data scrubbing, data discovery and analytics modelling tools....",New South Wales,
+58,"
+    Finite IT",Data Engineer (IBM Integration Bus/SAP Process Orchestration...,"
+            Significant experience in data exchange technologies and ETL processes using technologies such as SAP Data Services....",Adelaide SA,
+59,"
+    Talent Insights Group",Senior Data Engineer - Embedded in Data Science Team,"
+            This is an awesome opportunity for an experienced data engineer / software engineer / machine learning engineer to join an established modelling team that is...",Sydney NSW,"<span class=""no-wrap"">
+                $145,000 - $160,000 a year</span>"
+60,"
+
+    Accenture",Accenture Big Data Engineer Consultant/Manager,"
+            Accenture Big Data Engineer Consultant/Manager, Australia. O Enterprise Data Warehouse / Data Lake architectures....",Sydney NSW,
+61,"
+    Naviro Pty Ltd",Senior Data Engineer (Spark/Scala/AWS) | 'Data Driven' Analy...,"
+            We are a data driven business building bespoke Data Driven products for individual requirements. Develop new Big Data products....",Sydney NSW,"<span class=""no-wrap"">
+                $140,000 - $170,000 a year</span>"
+62,"
+    Search Party",Front End Engineer,"
+            You’ll fit into a founding team which includes Product Managers, a Web Engineer, Data Engineer, Finance, Operations Manager and CEO....",Surry Hills NSW,
+63,"
+
+    Siemens AG",Senior Data Scientist,"
+            Based on a solid data understanding, the data engineer executes feature engineering and data quality evaluations in order to prepare data tables usable for...",Perth WA,
+64,"
+    Amplify Partners",SENIOR BIG DATA ENGINEERS X3 | HADOOP | SPARK | JAVA,"
+            As the successful Big Data Engineer, your key responsibilities will be as follows:. Work closely with the new Head of Big Data & other senior stakeholders to...",Sydney NSW,"<span class=""no-wrap"">
+                $900 a week</span>"
+65,"
+
+    Teradata",TB Sr. Data Eng (I),"
+Data Eng (I)-174835. Additionally the Senior Data Engineer assists Think Big Analytics establish thought leadership in the big data industry by contributing...",Melbourne VIC,
+66,"
+
+    Client Server",Lead Data Engineer / Developer,"
+            Global data analysis and optimisation company seeking talented Data Engineer/Developer. Have proven big data experience....",Sydney NSW,"<span class=""no-wrap"">
+                $120,000 - $150,000 a year</span>"
+67,"
+    Aurec Human Capital Group",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+68,"
+
+    Aurec",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+69,"
+
+    Accenture",Accenture Big Data Engineer Consultant/Manager,"
+                            Accenture Big Data Engineer Consultant/Manager, Australia. O Enterprise Data Warehouse / Data Lake architectures....",Sydney NSW,
+70,"
+    Naviro Pty Ltd",Senior Data Engineer (Spark/Scala/AWS) | 'Data Driven' Analy...,"
+            We are a data driven business building bespoke Data Driven products for individual requirements. Develop new Big Data products....",Sydney NSW,"<span class=""no-wrap"">
+                $140,000 - $170,000 a year</span>"
+71,"
+    Search Party",Front End Engineer,"
+            You’ll fit into a founding team which includes Product Managers, a Web Engineer, Data Engineer, Finance, Operations Manager and CEO....",Surry Hills NSW,
+72,"
+
+    Siemens AG",Senior Data Scientist,"
+            Based on a solid data understanding, the data engineer executes feature engineering and data quality evaluations in order to prepare data tables usable for...",Perth WA,
+73,"
+    Alloc8 Recruitment Solutions Pty Ltd",Data Specialist,"
+            Strong Data Modelling skills - Traditional (3NF, Physical, Logical and Data Vault preferred). In order to build this solution we're looking for a communicative,...",Sydney NSW,"<span class=""no-wrap"">
+                $150,000 a year</span>"
+74,"
+    Amplify Partners",SENIOR BIG DATA ENGINEERS X3 | HADOOP | SPARK | JAVA,"
+            As the successful Big Data Engineer, your key responsibilities will be as follows:. Work closely with the new Head of Big Data & other senior stakeholders to...",Sydney NSW,"<span class=""no-wrap"">
+                $900 a week</span>"
+75,"
+
+    Teradata",TB Sr. Data Eng (I),"
+Data Eng (I)-174835. Additionally the Senior Data Engineer assists Think Big Analytics establish thought leadership in the big data industry by contributing...",Melbourne VIC,
+76,"
+
+    Client Server",Lead Data Engineer / Developer,"
+            Global data analysis and optimisation company seeking talented Data Engineer/Developer. Have proven big data experience....",Sydney NSW,"<span class=""no-wrap"">
+                $120,000 - $150,000 a year</span>"
+77,"
+    Aurec Human Capital Group",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+78,"
+
+    Aurec",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+79,"
+    Naviro Pty Ltd",Senior Data Engineer (Spark/Scala/AWS) | 'Data Driven' Analy...,"
+            We are a data driven business building bespoke Data Driven products for individual requirements. Develop new Big Data products....",Sydney NSW,"<span class=""no-wrap"">
+                $140,000 - $170,000 a year</span>"
+80,"
+    Search Party",Front End Engineer,"
+            You’ll fit into a founding team which includes Product Managers, a Web Engineer, Data Engineer, Finance, Operations Manager and CEO....",Surry Hills NSW,
+81,"
+
+    Siemens AG",Senior Data Scientist,"
+            Based on a solid data understanding, the data engineer executes feature engineering and data quality evaluations in order to prepare data tables usable for...",Perth WA,
+82,"
+    Alloc8 Recruitment Solutions Pty Ltd",Data Specialist,"
+            Strong Data Modelling skills - Traditional (3NF, Physical, Logical and Data Vault preferred). In order to build this solution we're looking for a communicative,...",Sydney NSW,"<span class=""no-wrap"">
+                $150,000 a year</span>"
+83,"
+    Amplify Partners",SENIOR BIG DATA ENGINEERS X3 | HADOOP | SPARK | JAVA,"
+            As the successful Big Data Engineer, your key responsibilities will be as follows:. Work closely with the new Head of Big Data & other senior stakeholders to...",Sydney NSW,"<span class=""no-wrap"">
+                $900 a week</span>"
+84,"
+
+    Teradata",TB Sr. Data Eng (I),"
+Data Eng (I)-174835. Additionally the Senior Data Engineer assists Think Big Analytics establish thought leadership in the big data industry by contributing...",Melbourne VIC,
+85,"
+
+    Client Server",Lead Data Engineer / Developer,"
+            Global data analysis and optimisation company seeking talented Data Engineer/Developer. Have proven big data experience....",Sydney NSW,"<span class=""no-wrap"">
+                $120,000 - $150,000 a year</span>"
+86,"
+    Aurec Human Capital Group",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+87,"
+
+    Aurec",Data Architect,"
+            Our award-winning client is seeking an experienced Data Engineer/ Data Architect to set up a Data Lake Platform in the Cloud (AWS)....",Sydney NSW,
+88,"
+    GetSwift",Data Scientist,"
+Data analysis and reporting. Enhancing data collection and analytics. We're not just looking for a data scientist, we're looking for someone who is prepared to...",Melbourne VIC,
+89,"
+
+    EXPERIAN",Data Scientist,"
+            Successful candidates will enjoy working with large volumes of data in an innovative and fast paced environment....",Melbourne VIC,
+90,"
+
+    Rio Tinto",Data Scientist,"
+            Develop custom analytics workflows by integrating relevant data sources and developing analytic/derived data sets through feature selection to address specific...",Brisbane QLD,
+91,"
+
+    Dialog Information Technology",Data Scientist,"
+            Dialog requires a Data Scientist who can clearly demonstrate the following capabilities:. Expertise With Data Mining, Machine Learning, Programming and...",Melbourne VIC,
+92,"
+
+    Equifax",Data Scientist,"
+Data driven marketing solutions that maximize marketing efficiency, including market analysis, data enhancement & integration, external data supply, demographic...",Melbourne VIC,
+93,"
+
+    Google","Data Scientist, Google Technical Services","
+            Engage various stakeholders, assess data readiness. As a Data Scientist, you will work closely with clients and produce innovative and actionable quantitative...",Sydney NSW,
+94,"
+
+    Munich Re",Data Scientist,"
+            Identifies what data, both internally and externally, are available and relevant, as well as leveraging new data collection processes....",Sydney NSW,
+95,"
+
+    Teradata",Data Scientist,"
+            As a Senior Data Scientist, you will:. Ideal Data Scientist candidates have this additional experience:. Perform data wrangling and extract exploratory insights...",Sydney NSW,
+96,"
+
+    IAG",Data Scientist,"
+            Experience in analysing large volumes of unstructured data. Advanced knowledge of analytics and data processing technologies and architectures....",Sydney NSW,
+97,"
+    VGW",Data Scientist,"
+            Join our extraordinary Australian team! Data Scientist Data & Analytics Team |...",Perth WA,
+98,"
+    Sree Tech Consulting",Data Scientist,"
+            We are looking for Data Scientist for Canberra location. Experience in data wrangling and working with large complex structured and unstructured data sets;...",Canberra ACT,
+99,"
+
+    THE ICONIC",Data Scientist - Data Platform Focus,"
+            We are looking for an experienced Data Scientist to work across several business areas including Recommendations, Customer Profiling, Forecasting and...",Sydney NSW,
+100,"
+
+    Cisco",Business Intelligence Analyst / Data Scientist (Full Time) -...,"
+            Graduate Business Intelligence Analyst / Data Scientist. Qualifications related to data analytics, data science, behavioural economics, IT, computer science or...",St Leonards NSW,
+101,"
+
+    QBE",Data Scientist,"
+            Leading analytical conversation with business centred on “The art of the possible using data science”, exploring data from a modelling perspective, and...",New South Wales,
+102,"
+    Black Swallow Boutique",Data Scientist,"
+            We are looking for an experienced Data Scientist to work across several business areas including Recommendations, Customer Profiling, Forecasting and...",Alexandria NSW,
+103,"
+    TheDriveGroup",Junior / Mid Level Data Scientist x 2,"
+            Junior - Mid Level Data Scientist / Data Analyst x 2. Commercial experience as Data Scientist. You will have constant training and development as you progress...",Sydney NSW,"<span class=""no-wrap"">
+                $110,000 a year</span>"
+104,"
+
+    Dimension Data",Data Scientist,"
+            5 years of experience in a similar Data Scientist role. The Data Scientist is a key member of the Automation team. Diversity in Dimension Data....",Sydney NSW,
+105,"
+    Youth & Programmes Group","Data Analyst |Data Scientist - Canberra, ACT","
+            To complete these investigations we use both traditional and novel data sources, including real-time labour market data derived from online job ads....",Canberra ACT,"<span class=""no-wrap"">
+                $74,952 - $80,130 a year</span>"
+106,"
+
+    Atlassian","Data Scientist, Product Insights","
+            Do you get excited by the challenge of scaling a fast-growing company by powering it with data, reporting, and analytics?...",Sydney NSW,
+107,"
+
+    Microsoft",Senior Data Scientist,"
+            The Windows Defender Research team is looking for an experienced Applied ML Data Scientist to join our Melbourne Research Lab....",Melbourne VIC,
+108,"
+    Cover Genius",Senior Data Scientist,"
+            Event data from an Analytics platform. Manage and integrate data from multiple sources:. API data through the SaaS platform – MySQL....",Sydney NSW,
+109,"
+
+    Amazon.com",Senior Data Scientist,"
+            SENIOR Data scientist – aws Professional services. Experience giving data presentations. Work with our Professional Services Big Data consultants to analyze,...",Sydney NSW,
+110,"
+
+    Siemens AG",Senior Data Scientist,"
+            The Senior Data Scientist executes master data management policies developed by the data architect. Based on a solid data understanding, the data engineer...",Perth WA,
+111,"
+    Genesis IT&T Pty Ltd",Data Scientist | Junior to Mid Level,"
+            Mid level Data Scientist Role. 3+ Years experience mandatory as a Data Scientist. The mid-level Data Scientist will be working with established programmatic and...",Sydney NSW,
+112,"
+    Opus Recruitment Solutions",JUNIOR MID DATA SCIENTIST,"
+Data warehousing concepts & ETL tools. Graduate who has PhD in Data Science or Machine Learning (highly considered)....",Melbourne VIC,"<span class=""no-wrap"">
+                $90,000 - $120,000 a year</span>"
+113,"
+    Salt Recruitment","Data Scientist Sydney, Australia","
+            Passionate about tech, AI, data. After securing several rounds of successful funding, they are growing their teams once more and as such are looking for a...",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $140,000 a year</span>"
+114,"
+
+    Urbis",Property Economics & Research - Data Scientist,"
+            Consultant - Data Scientist. Data visualisation aptitude. Mathematical and statistical manipulation of data....",Melbourne VIC,
+115,"
+
+    Rio Tinto",Data Scientist,"
+                            Develop custom analytics workflows by integrating relevant data sources and developing analytic/derived data sets through feature selection to address specific...",Brisbane QLD,
+116,"
+
+    General Assembly",Lead Data Science Immersive Instructor (Full time),"
+            We are looking for a Data Scientist to teach our brand new full time class:. Why Teach the Data Science Immersive?...",Sydney NSW,
+117,"
+    FourQuarters",Data Scientist,"
+            As a Data Scientist, you will be responsible for:. Data Scientist required to join a newly creating analytics function within a leading fund manager....",Melbourne VIC,"<span class=""no-wrap"">
+                $150,000 a year</span>"
+118,"
+    Opus Recruitment Solutions",DATA SCIENTIST,"
+            You’ll be working with devs from data science, data engineering, backend, web and UX backgrounds to make Anna extremely smart....",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $130,000 a year</span>"
+119,"
+    Opus Recruitment Solutions",Senior Data Scientist,"
+            You will be helping businesses to derive value from their own data by designing and implementing innovative analytics algorithms that can include Natural...",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $200,000 a year</span>"
+120,"
+
+    Morgan McKinley",Senior Data Scientist,"
+            Role Senior Data Scientist. Python / TABLEAU / SQL / Machine Learning / AWS / AI / R / PYTHON / DATA SCIENTIST....",Sydney Central Business District NSW,"<span class=""no-wrap"">
+                $160,000 - $180,000 a year</span>"
+121,"
+    Correlate Resources",Customer Data Scientists / Analytics Consultants,"
+            As an experienced Customer Data Scientist the responsibilities of these roles will involve but not be limited to:....",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $120,000 a year</span>"
+122,"
+
+    Talent International",Data Scientist,"
+            Work with large amounts of data. Be innovative, be creative, use every bit of that key commodity - Data. Our client is an iconic Australia success story and...",Victoria,"<span class=""no-wrap"">
+                $110,000 - $120,000 a year</span>"
+123,"
+
+    Equifax",Senior Analyst,"
+            Exciting career progression opportunities- Data Scientist, R&D or Lead. Extract, manipulate and analyse data....",Melbourne VIC,
+124,"
+    Citak",Data Scientist,"
+            Experience in relational databases, data modelling and Data Profiling. The *Data Scientist*. Tableau ) and data frameworks a bonus....",Melbourne VIC,
+125,"
+
+    Michael Page",Data Scientist,"
+            Influence the development and enhancement of data platforms. Work in a business committed to investing in Data Science....",Melbourne City Centre VIC,
+126,"
+    Bluefin Resources",Data Scientist,"
+            Reporting to the Lead Data Scientist, you will be possessing a wide knowledge of tools used in Data Science/Big Data for developing models and discovering...",Melbourne VIC,
+127,"
+
+    PRA",Data Scientist,"
+            As well as a big data platform Hadoop and Spark with real time data ingestion and processing. Competitive Salary + Benefits This role is for an experienced Data...",Melbourne VIC,
+128,"
+    Paxus",Data Scientist,"
+Data Scientist with Python. An initial 06-month contract for Data Scientist join a global IT organisation in Melbourne....",Melbourne VIC,
+129,"
+    Professional Recruitment Australia",Data Scientist,"
+            As well as a big data platform Hadoop and Spark with real time data ingestion and processing. Competitive Salary + Benefits This role is for an experienced Data...",Melbourne VIC,
+130,"
+
+    Robert Walters",Data Scientist,"
+            Extensive knowledge leveraging Data Science skills to find innovative approaches to problems. Extensive knowledge and experience of Machine Learning techniques...",Sydney Central Business District NSW,
+131,"
+    Ignite Specialist Recruitment Services",Data Scientist,"
+            Working closely with the Head of Data Analytics Manager and build the capability within their Data Analytics offering....",Sydney NSW,
+132,"
+
+    Greythorn Specialist Technology Recruitment",Data Scientist,"
+            The Data Scientist is responsible for developing, implementing and performing on-going performance. Greythorn has extensive experience in the Data, BI and...",Sydney NSW,
+133,"
+    Ever Better Recruitment (EBR)",Data Scientist,"
+            Visualizing data with javascript. As a Data Scientist, you will work on the machine learning platform and actively contribute to the development of our state-of...",Australia,
+134,"
+
+    Rio Tinto",Data Scientist,"
+                            Develop custom analytics workflows by integrating relevant data sources and developing analytic/derived data sets through feature selection to address specific...",Brisbane QLD,
+135,"
+
+    Rio Tinto",Principal Data Scientist,"
+                            This will involve gaining substantial experience of working with our data systems to develop state-of-the-art data science solutions for our business’s data...",Perth WA,
+136,"
+
+    Hays",Data Scientist,"
+            Combining big data analytics technologies and methods, with statistical modelling and data mining. Working with large complex data sets....",Canberra ACT,
+137,"
+
+    Hays",Cyber Data Scientist,"
+            Exciting Opportunity for a Cyber Data Scientist. Maintain knowledge of current trends and latest applications in the fields of Advanced Data Analytics, Machine...",Sydney NSW,
+138,"
+
+    Rio Tinto",Principal Data Scientist,"
+            This will involve gaining substantial experience of working with our data systems to develop state-of-the-art data science solutions for our business’s data...",Perth WA,
+139,"
+    GMT People",Data Scientist,"
+            Well-developed skills using SQL for data manipulation and query of large data sets; Data Scientists are in hot demand!...",Canberra ACT,
+140,"
+    Sarah Cockell Consulting",Data Scientist/Analyst,"
+            With a focus on Digital and CRM data sources, you’ll use contemporary programming and data visualisation tools to manipulate and analyse large volumes of data...",Melbourne VIC,
+141,"
+    Zone IT Solutions","Data Analytics : Alteryx, SAS","
+Data scientist perspective (modelling, core statistical competency) -- - this is a musthave...Tools. Demonstrated data analysis and modelling experience....",Sydney NSW,
+142,"
+    Correlate Resources",Customer Data Scientist x2 (JANUARY START CONTRACT),"
+            As an experienced Customer Data Scientist the responsibilities of these roles will involve but not be limited to:....",Sydney NSW,"<span class=""no-wrap"">
+                $450 - $600 a day</span>"
+143,"
+    Anditi Pty Ltd",Data Scientist/Engineer,"
+            Experience with data structures and design patterns. Ability to illuminate complex problems with data analysis....",Teralba NSW,
+144,"
+    Big Wednesday Digital",Head Of Data,"
+            At least 5-10 years working as a statistician / data scientist. If you are a Data Scientist Manager / Head and want to learn more, we want to hear from you...",Australia,"<span class=""no-wrap"">
+                $200,000 - $400,000 a year</span>"
+145,"
+
+    Rio Tinto",Data Scientist,"
+                            Develop custom analytics workflows by integrating relevant data sources and developing analytic/derived data sets through feature selection to address specific...",Brisbane QLD,
+146,"
+
+    Rio Tinto",Principal Data Scientist,"
+                            This will involve gaining substantial experience of working with our data systems to develop state-of-the-art data science solutions for our business’s data...",Perth WA,
+147,"
+
+    Talent International",Data Scientist / BI Analyst,"
+            A good grasp of data science (i.e., data mining) concepts and applications. Extract and transform data for use in data analysis, visualisation, and statistical...",Victoria,
+148,"
+
+    DigitasLBi",Data Engineer,"
+Data extraction from structured/unstructured sources; The creative use of data / data sources is a must, the candidate should have not only a strong analytical...",Sydney NSW,
+149,"
+
+    Michael Page",Senior Data Scientist,"
+            This senior data scientist role will encompass the following responsibilities:. Job Description This senior data scientist role will encompass the following...",Melbourne VIC,
+150,"
+
+    Hays",Data Scientist & Business Intelligence Lead,"
+            A Data Scientist & Business Intelligence lead who will be the spearhead in creating and nurturing the data science environment and implementing best practices...",Sydney Central Business District NSW,
+151,"
+    Fenchurch Associates",Graduate Data Scientists,"
+            Our client, a leading personal lines insurer is looking for several graduates to join their large Pricing function in a role as a Data Scientist....",Queensland,
+152,"
+
+    Robert Walters",Data Migration Specialist,"
+            Proven work experience as a Data Architect, Data Scientist, Data Analyst or similar role. Perform data migration audit, reconciliation and exception reporting....",Adelaide SA,
+153,"
+
+    Urbis",Property Economics & Research - Senior Data Scientist,"
+            Senior Consultant - Data Scientist. Data visualisation aptitude. As the Senior Consultant - Data Scientist, you will need the following skills and qualities:....",Melbourne VIC,
+154,"
+
+    Hays",Software Engineer - DevOps,"
+            Your new role will join developers from data science, data engineering, backend, web and UX backgrounds to build an automated data scientist....",Sydney Central Business District NSW,
+155,"
+
+    Hudson",Data Scientist,"
+            One of our key Government clients are looking to engage services of an experienced Data Scientist on a 12 month contract....",Canberra ACT,
+156,"
+
+    Rio Tinto",Data Scientist,"
+                            Develop custom analytics workflows by integrating relevant data sources and developing analytic/derived data sets through feature selection to address specific...",Brisbane QLD,
+157,"
+
+    Rio Tinto",Principal Data Scientist,"
+                            This will involve gaining substantial experience of working with our data systems to develop state-of-the-art data science solutions for our business’s data...",Perth WA,
+158,"
+
+    Teradata",TB Prin. Data Scientist (I),"
+            The Data Scientist captures, sorts, and determines what is relevant in the data. The Data Scientist gathers intelligence from the massive streams of data that...",Sydney NSW,
+159,"
+    Sustainability Consulting",Backend JVM Engineer | Kotlin,"
+            Our product uses AI, we have a Data Scientist in the team, and there's lots of opportunity to get involved with AI and deep learning....",Sydney NSW,"<span class=""no-wrap"">
+                $110,000 - $130,000 a year</span>"
+160,"
+    SustainAbility Consulting",Backend JVM Engineer,"
+            Our product uses AI, we have a Data Scientist in the team, and there's lots of opportunity to get involved with AI and deep learning....",Sydney NSW,
+161,"
+    TheDriveGroup",IT / Tech Recruitment Consultant | Trainee & Senior Roles Av...,"
+            Front End Developer, Java Developer, .Net Developer, JavaScript Developer, NodeJS Developer, MEAN Stack Developer, MERN Stack Developer, Full Stack JavaScript...",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $300,000 a year</span>"
+162,"
+    Infinity Pro","Risk Data Insight Analyst / Data Scientist - Assurance, Audi...","
+            Demonstrated commercial experience in mathematical / statistical data manipulation and building of raw data models;...",Parramatta NSW,
+163,"
+
+    ignite",Data Scientist,"
+                            Working closely with the Head of Data Analytics Manager and build the capability within their Data Analytics offering....",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $150,000 a year</span>"
+164,"
+
+    ignite",Data Scientist,"
+                            Working closely with the Head of Data Analytics Manager and build the capability within their Data Analytics offering....",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $150,000 a year</span>"
+165,"
+
+    Urbis",Property Economics & Research - Senior Data Scientist,"
+            Senior Consultant - Data Scientist. Data visualisation aptitude. As the Senior Consultant - Data Scientist, you will need the following skills and qualities:....",Melbourne VIC,
+166,"
+
+    Hays",Software Engineer - DevOps,"
+            Your new role will join developers from data science, data engineering, backend, web and UX backgrounds to build an automated data scientist....",Sydney Central Business District NSW,
+167,"
+
+    Hudson",Data Scientist,"
+            One of our key Government clients are looking to engage services of an experienced Data Scientist on a 12 month contract....",Canberra ACT,
+168,"
+
+    Randstad",data analyst,"
+            Experience building data architectures and their relevant strategies, as well as generating data models from attribution to retention....",Cremorne VIC,"<span class=""no-wrap"">
+                $70,000 - $80,000 a year</span>"
+169,"
+
+    Teradata",TB Prin. Data Scientist (I),"
+            The Data Scientist captures, sorts, and determines what is relevant in the data. The Data Scientist gathers intelligence from the massive streams of data that...",Sydney NSW,
+170,"
+    Sustainability Consulting",Backend JVM Engineer | Kotlin,"
+            Our product uses AI, we have a Data Scientist in the team, and there's lots of opportunity to get involved with AI and deep learning....",Sydney NSW,"<span class=""no-wrap"">
+                $110,000 - $130,000 a year</span>"
+171,"
+    SustainAbility Consulting",Backend JVM Engineer,"
+            Our product uses AI, we have a Data Scientist in the team, and there's lots of opportunity to get involved with AI and deep learning....",Sydney NSW,
+172,"
+    TheDriveGroup",IT / Tech Recruitment Consultant | Trainee & Senior Roles Av...,"
+            Front End Developer, Java Developer, .Net Developer, JavaScript Developer, NodeJS Developer, MEAN Stack Developer, MERN Stack Developer, Full Stack JavaScript...",Sydney NSW,"<span class=""no-wrap"">
+                $100,000 - $300,000 a year</span>"
+173,"
+    Infinity Pro","Risk Data Insight Analyst / Data Scientist - Assurance, Audi...","
+            Demonstrated commercial experience in mathematical / statistical data manipulation and building of raw data models;...",Parramatta NSW,
